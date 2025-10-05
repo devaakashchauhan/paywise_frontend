@@ -11,6 +11,4 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/paywise_frontend/",
-  publicDir: path.resolve(__dirname, "public"),
 });
